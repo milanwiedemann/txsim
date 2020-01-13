@@ -3,6 +3,7 @@ Simulation of longitudinal treatment data
 
 ## Why?
 - Synthetic datasets: A non-technical primer for the behavioural sciences to promote reproducibility and hypothesis-generation ([Preprint](https://psyarxiv.com/dmfb3/), [Tweet](https://twitter.com/dsquintana/status/1159715700325474304))
+- https://twitter.com/dsquintana/status/1216651026159280128
 
 ## R Packages
 - synthpop: Bespoke Creation of Synthetic Data in R ([Paper](https://www.jstatsoft.org/article/view/v074i11), [GitHub 1](https://github.com/cran/synthpop), [GitHub 2](https://github.com/bnowok/synthpop))
